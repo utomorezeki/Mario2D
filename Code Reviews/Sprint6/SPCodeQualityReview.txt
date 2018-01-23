@@ -1,0 +1,14 @@
+Author: Shiny Patel
+Date: 7/27/2017
+Sprint#: 6
+.cs file reviewed: LargeSpinFireBeam.cs
+author of cs file: Dylan Guo
+# of minutes taken to complete the review: 15
+
+Specific comments on code quality: 
+
+The constructor only takes 3 arguments which is an improvement from the 5-6 arguments used for
+constructors of item classes in the previous sprints. As a result, this class has somewhat 
+(because this class is still dependent on the game class) loose coupling.
+The class methods are not too long and only deal with what they are supposed to do so the class
+also has high cohesion. 

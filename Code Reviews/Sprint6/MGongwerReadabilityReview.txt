@@ -1,0 +1,9 @@
+﻿Author: Morgan Gongwer
+Date: 7/27/2017
+Sprint 6
+Name of the .cs file being reviewed: PiranhaPlant.cs
+Author of the .cs file being reviewed: Shiny Patel
+Number of minutes taken to complete the review: 20
+
+Specific comments on readibility: 
+	The code is very readable and easy to follow. All of the variables are well named. It is maintainable for the piranha plant type because any object that is a part of the game that has the characteristcs of a piranha plant can utilize this code. It is of good length and cohesive so understanding what the class does is pretty simple. There are well labeled methods so that makes understanding what they do easier. Overall this class is good.

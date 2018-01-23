@@ -1,0 +1,12 @@
+﻿Author: Morgan Gongwer
+Date: 7/27/2017
+Sprint 6
+Name of the .cs file being reviewed: Piranha Plant
+Author of the .cs file being reviewed: Shiny Patel
+Number of minutes taken to complete the review: 35
+
+Specific comments on code quality:
+	The code has good cohesion because everything in the class is related to the Piranha plant. The coupling is loose because it only deals with piranha plant and doesn't depend on knowledge other than level loading to draw in the right spot. The code is maintainable because the name of the objects are easy to understand and works for anything of piranha plant type. The reusability is good because if we add another enemy that acts the same way we can follow the same code as this class to create the new one.
+
+Hypothetical change:
+	We could separate the other methods out to lower coupling more.
